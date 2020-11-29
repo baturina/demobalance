@@ -1,4 +1,4 @@
-public class demobalance {
+public class DemoBalance {
     public static void main(String[] args) {
         int balance = 8900;
         int bonus ;
